@@ -1,0 +1,13 @@
+[project]
+name = "deep-agent-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ddgs>=9.6.1",
+    "deepagents>=0.2.1",
+    "ipykernel>=7.1.0",
+    "langchain-community>=0.4.1",
+    "langchain-ollama>=1.0.0",
+]
